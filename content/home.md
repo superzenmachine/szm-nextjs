@@ -1,6 +1,6 @@
 ---
 title: Super Zen Machine
-date: 2021-10-25T01:19:02.167Z
+date: 2021-10-25T01:24:03.962Z
 superzenmachine:
   - description: Matt Nunnery is the owner / creative lead of Super Zen Machine.
     name: Matt Nunnery
