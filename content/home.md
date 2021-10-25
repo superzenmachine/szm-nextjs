@@ -14,4 +14,8 @@ superzenmachine:
 ---
 **[Welcome to the machine! ](https://facebook.com/superzenmachine)**
 
+![](media/szm_logo_banner_final-1-.jpg)
+
+
+
 This page is built with NextJS, and content is managed in Netlify CMS
